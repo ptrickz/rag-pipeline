@@ -1,0 +1,4 @@
+Gemma is a family of decoder-only open models built by Google.
+RAG stands for Retrieval-Augmented Generation.
+ChromaDB is a lightweight embedding store used for vector similarity search.
+You can combine Gemma with RAG to answer user questions based on custom data.
